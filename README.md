@@ -4,9 +4,7 @@
 
 提供了一些比较人性化的功能，代码写的比较急后期将会不断的完善优化。
 
-<p class="tip">
-  文档地址：[https://helpcode.github.io/HuaBanMm/#/](https://helpcode.github.io/HuaBanMm/#/)
-</p>
+> 文档地址：[https://helpcode.github.io/HuaBanMm/#/](https://helpcode.github.io/HuaBanMm/#/)
 
 ## 主要功能
 
